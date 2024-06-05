@@ -1,3 +1,3 @@
+
 Mi primer repositorio 
-me gusta el cine 
-y dibujar
+Me gusta:el cine 
